@@ -11,7 +11,7 @@
     "moduleResolution": "node",
     "noEmitOnError": true,
     "outDir": "build",
-    "rootDir": "src",
+    "rootDir": "./src",
     "sourceMap": true,
     "strict": true,
     "target": "es2021",
@@ -20,6 +20,6 @@
     "pretty": true,
     "resolveJsonModule": true
   },
-  "include": ["src", "scripts/babel-preset.js"],
+  "include": ["src"],
   "exclude": ["node_modules"]
 }
