@@ -16,7 +16,7 @@ xpack.reporting.roles.enabled: true
 xpack.fleet.agentIdVerificationEnabled: false
 xpack.security.encryptionKey: fhjskloppd678ehkdfdlliverpoolfcr
 xpack.encryptedSavedObjects.encryptionKey: fhjskloppd678ehkdfdlliverpoolfcr
-# xpack.reporting.kibanaServer.hostname: localhost
+xpack.reporting.kibanaServer.hostname: localhost
 
 ## Add policy for apm-server integration
 xpack.fleet.packages:
