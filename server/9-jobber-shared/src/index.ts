@@ -71,3 +71,11 @@ export {
   ICertificate,
   ISellerDocument,
 } from './interfaces/seller.interface';
+export {
+  IError,
+  CustomError,
+  BadRequest,
+  NotFound,
+  Unauthorized,
+} from './error-handler';
+export { uploads } from './cloudinary-upload';
