@@ -22,7 +22,7 @@
   "author": "Rob Gleason",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Epiq122/Jobber"
+    "url": "git+https://github.com/Epiq122/Jobber.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
