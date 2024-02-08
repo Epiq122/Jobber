@@ -79,3 +79,4 @@ export {
   Unauthorized,
 } from './error-handler';
 export { uploads } from './cloudinary-upload';
+export { verifyGatewayRequest } from './gateway-middleware';
