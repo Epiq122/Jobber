@@ -80,3 +80,10 @@ export {
 } from './error-handler';
 export { uploads } from './cloudinary-upload';
 export { verifyGatewayRequest } from './gateway-middleware';
+export {
+  firstLetterUppercase,
+  lowerCase,
+  toUpperCase,
+  isEmail,
+  isDataURL,
+} from './helpers';
